@@ -1,287 +1,190 @@
 [
   {
-    "id": "644ff18a59507cc9944dd285",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 2,
-    "food_name": "Hurst Charles",
-    "food_description": "Aliquip velit do dolore quis est sunt deserunt elit aliqua Lorem dolore nulla voluptate. Sunt excepteur aliquip ullamco ut magna quis cillum Lorem sunt tempor reprehenderit. Reprehenderit exercitation fugiat proident ad adipisicing non aute labore dolor anim. Excepteur laboris consectetur tempor pariatur voluptate sint et tempor. Irure cupidatat qui aute aute sit velit ad ullamco cillum. Dolore nulla aute occaecat sunt occaecat aliquip nostrud duis enim duis est duis magna.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Gentry Herman",
+    "id": "1",
+    "food_picture": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=1060&t=st=1682962082~exp=1682962682~hmac=f361e133588e86c2f8d0861c11fecd9eb03d08a80b1b2ab6f7c4102f69c011ac",
+    "no_of_recipes": 4,
+    "food_name": "Beef Bhuna",
+    "food_description": "Beef bhuna is a glorious Bangladeshi curry much beloved of the British Curry house, easily identified by its delicious, spicy & thick sauce. A Bhuna (pronounced boona) curry is probably one of the most common dishes on a British Indian Curry House menu.Gosht means meat and in many recipes would refer to lamb, but for me this recipe works wonderfully beef!\r\n",
+    "chef_picture": "https://img.freepik.com/free-photo/young-woman-writing-diary-restaurant_23-2147837516.jpg?w=1060&t=st=1682964451~exp=1682965051~hmac=7dbff700877e550e5e21054ba367a430475f3f50609e1ac72d55b16b0757a9e6",
+    "chef_name": "Siddika Kabir",
     "likes": 1052,
     "year_of_experience": 12,
+    "bio": "A famous Bangladeshi cookbook author and television personality\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Avila Gay",
-        "ingredients": "13qui",
-        "cooking_method": "Minim culpa aliquip est dolore voluptate ex in tempor deserunt deserunt anim do deserunt laboris. Non eu amet adipisicing nulla laboris aliqua nisi. Labore adipisicing proident non ullamco ullamco id aliqua culpa est.\r\n",
-        "bio": "Anim quis veniam ex dolor cillum duis esse esse pariatur dolor. Ea cupidatat pariatur magna do fugiat veniam ut ipsum cupidatat sit sunt officia. Esse pariatur laboris ullamco ipsum irure occaecat sunt non.\r\n"
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["1 pound beef,", "1 onion", "2 green chillies", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 tablespoon cumin powder", "1 tablespoon chilli powder", "oil"],
+        "cooking_method": "Heat oil in a large skillet or wok over medium-high heat. Add the onion and sauté until golden brown. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chopped tomatoes and green chilies and cook until the tomatoes are soft and mushy. Add the beef pieces to the skillet and stir well to coat them in the masala. Add salt to taste. The beef should release its own juices, which will help it cook. Once the beef is cooked, remove the lid and let the gravy thicken. Add the ingredients. Mix well. Cook the beef in the masala for a few more minutes until the masala is thick and coats the beef well. Garnish with fresh cilantro leaves and serve hot with rice or naan.\r\n"
+      },
+      {
+        "recipe_name": "Chicken Biriyani",
+        "ingredients": ["2 cups basmati rice", "1 pound boneless chicken", "1 large onion", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon garam masala powder", "salt and oil"],
+        "cooking_method": "Heat oil in a large pot or Dutch oven over medium-high heat. Add the biryani masala ingredients and sauté for a minute or two until fragrant. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chicken pieces to the pot and stir well to coat them in the masala. Add salt to taste. Add the yogurt to the pot and mix well. Cover the pot with a lid and let the chicken cook. In a separate pot, boil 4 cups of water. Drain the soaked rice and add it to the boiling water along with salt to taste. Cook the rice until it is about 80% done. Drain the rice and keep it aside. Once the chicken is cooked, layer the rice on top of the chicken in the pot. Cover the pot with a tight-fitting lid and let the biryani cook on low heat for 10-15 minutes. Turn off the heat and let the biryani rest for 5-10 minutes. Garnish with fresh cilantro leaves and serve hot with raita.\r\n"
+      },
+      {
+        "recipe_name": "Aam Pora Shorbot",
+        "ingredients": ["2 raw mangoes", "1/2 cup fresh mint leaves", "1/4 teaspoon chili powder", "1/4 cup sugar", "4 cups water"],
+        "cooking_method": "Wash the raw mangoes and pat them dry. Roast the mangoes in the oven for 30-40 minutes. Once the mangoes are roasted, let them cool down. Remove the skin and discard the seeds. In a blender, puree the roasted mango flesh along with fresh mint leaves and water until smooth. Add the roasted cumin powder, black salt, chili powder, and sugar to the bowl/pitcher and stir well until the sugar dissolves. You can add more sugar if the shorbot is too tangy or more black salt if it's not salty enough. To serve, pour the chilled shorbot into glasses filled with ice cubes. Garnish with fresh mint leaves and serve immediately.\r\n"
       }
     ]
   },
   {
-    "id": "644ff18aa9d4a1d20493e6df",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 2,
-    "food_name": "Maryanne Cervantes",
-    "food_description": "Consequat minim pariatur consequat est enim irure. Est magna Lorem velit pariatur anim tempor est do labore et adipisicing id cupidatat. Nisi sunt velit et laborum sint nulla voluptate tempor ea. Sint qui veniam non aliquip magna eu ad id voluptate incididunt. Laboris amet mollit tempor nostrud pariatur tempor qui aute aliqua est adipisicing ea aliqua. Dolor tempor eu cupidatat velit magna commodo fugiat enim dolor. Ad aliqua velit elit duis ad quis incididunt mollit eu consequat nisi eiusmod.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Janna Pittman",
+    "id": "2",
+    "food_picture": "https://img.freepik.com/free-photo/skewered-chicken-kebab-with-rice-vegetables_140725-2320.jpg?w=1060&t=st=1682965760~exp=1682966360~hmac=89e63bbb6e26869bbf379082b2d7819edcde153e7b90607ff4c788c36cff35ec",
+    "no_of_recipes": 4,
+    "food_name": "Chicken Tikka Masala",
+    "food_description": "Chicken tikka masala is a popular curried dish made with boneless chicken, ground spices, onions, tomatoes, cream and herbs. Chicken Tikka Masala is a popular Bangladeshi dish that consists of marinated chicken that is grilled or roasted and then simmered in a creamy tomato-based sauce. \r\n",
+    "chef_picture": "https://img.freepik.com/free-vector/portrait-thomas-edison-cartoon-style_1308-95026.jpg?w=826&t=st=1682964381~exp=1682964981~hmac=a4794295e4bd000707bbf790180d112e74911202561ddc1df2b88f4fd5ceb10c",
+    "chef_name": "Tommy Miah",
     "likes": 1758,
     "year_of_experience": 19,
+    "bio": "A Bangladeshi-born British chef who has authored several cookbooks and owns a number of restaurants in the UK\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Rosanne Lee",
-        "ingredients": "7mollit",
-        "cooking_method": "Eu non nostrud minim consequat consectetur anim elit duis id id eiusmod consectetur est. Excepteur ad velit dolor deserunt aliqua ullamco. Aute quis et veniam nisi cupidatat cupidatat incididunt excepteur elit id laboris amet velit. Laboris ea cupidatat dolore elit aute. Et voluptate tempor qui ullamco est do laboris culpa sit culpa mollit dolore fugiat sunt. Aute tempor sit officia incididunt id elit aliquip tempor mollit est aliquip anim.\r\n",
-        "bio": "Et incididunt Lorem minim id ex Lorem cillum dolor duis dolore ad in. Consequat sint non laborum culpa non labore consectetur sunt. Ea ad pariatur id sunt. Ullamco pariatur mollit Lorem officia. Minim laboris veniam est dolor ex nisi et.\r\n"
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": ["1 pound boneless chicken", "1/2 cup plain yogurt", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "oil and salt"],
+        "cooking_method": "In a mixing bowl, combine all the ingredients for the marinade and mix well. Add the chicken pieces and mix until the chicken is well coated. Bake the chicken for 15-20 minutes.In a separate pan, heat 1 tablespoon of oil over medium-high heat. Add the chopped onions and sauté until they are soft and golden brown. Add the ginger and garlic paste and sauté. Add the chopped tomatoes to the pan and cook until they are soft and mushy. Add the cumin powder, coriander powder, turmeric powder, paprika, and garam masala to the pan and mix well. Let the sauce simmer for another 2-3 minutes. Add the cooked chicken pieces to the sauce and mix well. Let the chicken simmer in the sauce for 5-7 minutes.  Garnish with fresh cilantro leaves and serve hot with naan bread or steamed rice.\r\n"
+      },
+      {
+        "recipe_name": "Lemon Garlic Roasted Chicken Thighs",
+        "ingredients": ["6 bone-in, skin-on chicken thighs", "1/2 cup plain yogurt", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "oil and salt"],
+        "cooking_method": "Preheat your oven to 425°F (220°C). Line a baking sheet with parchment paper. In a mixing bowl, whisk together the olive oil, lemon juice, Dijon mustard, minced garlic, and dried oregano. Season the chicken thighs with salt and pepper on both sides. Place the chicken thighs on the prepared baking sheet, skin side up. Brush the lemon garlic mixture all over the chicken thighs. Roast the chicken thighs in the oven for 30-35 minutes, or until the skin is golden brown and crispy and the internal temperature of the chicken reaches 165°F (74°C). Garnish with lemon slices and fresh herbs and serve hot.\r\n"
+      },
+      {
+        "recipe_name": "Chicken Alfredo Pasta",
+        "ingredients": ["1 pound boneless chicken", "1 pound fettuccine pasta", "1/2 cup unsalted butter", "2 cups heavy cream", "1 cup grated Parmesan cheese", "Salt and black pepper", "Fresh parsley leaves, chopped"],
+        "cooking_method": "Cook the fettuccine pasta according to the package instructions until al dente. Drain the pasta and set aside. In a large skillet, melt the butter over medium heat.Add the minced garlic to the skillet and sauté for 1-2 minutes until fragrant. Add the chicken pieces to the skillet and season with salt and pepper. Cook until the chicken is cooked through and golden brown on all sides. Add the heavy cream to the skillet. Add the grated Parmesan cheese to the skillet and stir until the cheese has melted and the sauce is smooth. Add the cooked fettuccine pasta to the skillet and toss until the pasta is well coated with the sauce. Taste the pasta and adjust the seasoning as needed. Garnish with fresh parsley leaves and serve hot. Slow Cooker Chicken Tacos\r\n"
+      },
+      {
+        "recipe_name": "Slow Cooker Chicken Tacos",
+        "ingredients": ["2 pound boneless chicken,", "1 cup chicken broth", "1 packet taco seasoning", "1/2 cup salsa", "Corn or flour tortillas", "Toppings of your choice (shredded cheese, diced tomatoes, chopped onions, avocado slices, sour cream, etc.)"],
+        "cooking_method": "Place the chicken breasts in a slow cooker.In a mixing bowl, whisk together the chicken broth, taco seasoning, and salsa. Pour the mixture over the chicken in the slow cooker. Cover the slow cooker and cook on low for 6-8 hours or on high for 3-4 hours, or until the chicken is cooked through and tender. Shred the chicken with two forks. Warm up the tortillas in a microwave or in a pan. Fill the tortillas with the shredded chicken and your favorite toppings. Serve hot and enjoy your delicious Slow Cooker Chicken Tacos!\r\n"
       }
     ]
   },
   {
-    "id": "644ff18a0543485ce2faf13f",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 2,
-    "food_name": "Higgins Shepherd",
-    "food_description": "Labore velit adipisicing enim proident eiusmod quis eiusmod dolor dolor minim laborum exercitation. Dolor mollit velit magna officia ad tempor fugiat ut. Adipisicing nisi veniam aute tempor excepteur mollit adipisicing qui non incididunt occaecat.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Mildred Cruz",
+    "id": "3",
+    "food_picture": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Shahi-Tukda-2-3.jpg",
+    "no_of_recipes": 5,
+    "food_name": "Shahi Tukra",
+    "food_description": "Shahi tukda is a Mughlai dessert made with ghee fried bread, thickened sweetened milk, saffron and nuts. Shahi is a Persian word meaning Royal dessert and is said to have originated during the Mughal reign. There are different stories which relate to the origin of this delicious dessert. It is said that shahi tukra was a favourite of the Mughal emperors and was enjoyed with their festive iftar meals during the month of Ramadan\r\n",
+    "chef_picture": "https://img.freepik.com/free-vector/detailed-chef-logo-template_23-2148987940.jpg?w=740&t=st=1682965990~exp=1682966590~hmac=d2206bfde9f05e717adcda067af5a734aed7c1c7688bb7254355100a5df5f827",
+    "chef_name": "Tony Khan",
     "likes": 240,
     "year_of_experience": 17,
+    "bio": "A Bangladeshi chef who is known for his fusion cuisine, blending traditional Bangladeshi flavors with modern techniques.\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Torres Peterson",
-        "ingredients": "18ipsum",
-        "cooking_method": "Deserunt voluptate laborum id labore aute fugiat deserunt aute eiusmod pariatur aliquip velit magna. Aliquip mollit ut est ea ullamco magna commodo. Non exercitation amet ad mollit ipsum fugiat occaecat et esse et reprehenderit aliquip laboris cillum. Eiusmod esse ut occaecat fugiat exercitation ad consectetur dolore enim. Elit anim id anim consequat culpa aute id exercitation deserunt. Laboris irure reprehenderit nisi amet ad veniam occaecat proident voluptate non velit mollit in. Reprehenderit enim enim dolor ex qui dolor ea ea qui proident id tempor.\r\n",
-        "bio": "Officia sunt cupidatat adipisicing ad anim do laboris. Minim reprehenderit ea sunt consequat. Voluptate sit occaecat culpa consequat ea nulla irure cupidatat ipsum. Elit aliquip ullamco cupidatat fugiat minim ea magna consectetur. Sit cupidatat esse proident laboris nisi ea ex ex officia occaecat ipsum do ex dolore. Labore eiusmod est laborum qui ut aliquip aute quis.\r\n"
+        "recipe_name": "Shahi Tukra",
+        "ingredients": ["6-8 slices of bread", "2 cups of milk", "1/2 cup of condensed milk", "1/4 cup of water", "1/4 cup of chopped nuts", "2 tablespoons of ghee or butter", "Oil for frying the bread slices"],
+        "cooking_method": "Trim the edges of the bread slices and cut them into halves. Heat oil in a deep frying pan. In a separate pan, heat the ghee and add the chopped nuts. Sauté the nuts for a few minutes until they are lightly browned. Remove them from the pan and set aside. In the same pan, add the milk, condensed milk, and cardamom powder. Stir well and bring the mixture to a boil. Dip the fried bread slices in the milk mixture, making sure they are fully coated. Arrange the coated bread slices on a serving dish. In a separate pan, combine the sugar and water and bring the mixture to a boil, stirring continuously until the sugar dissolves completely. Pour the sugar syrup over the bread slices. Sprinkle the chopped nuts over the top. Serve the chilled Shahi Tukra as a delicious dessert. Enjoy!\r\n"
+      },
+      {
+        "recipe_name": "Rasgulla",
+        "ingredients": ["1 liter whole milk", "1/4 cup lemon juice", "3 cups water", "2 cups sugar", "1/4 teaspoon cardamom powder"],
+        "cooking_method": "In a large pot, bring the milk to a boil. Add the lemon juice and stir until the milk curdles and the whey separates. Remove the pot from the heat and strain the curdled milk through a cheesecloth. Rinse the cheese under cold water to remove the lemon flavor. Squeeze out the excess water from the cheese and shape it into small balls. In a separate pot, bring the water and sugar to a boil until the sugar dissolves. Add the cardamom powder and the cheese balls to the syrup. Remove from heat and let cool. Serve chilled or at room temperature.\r\n"
+      },
+      {
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["2 cups whole milk", "1/2 cup sweetened condensed milk", "1/4 cup plain yogurt", "1/4 teaspoon cardamom powder", "sugar"],
+        "cooking_method": "Preheat your oven to 350°F (175°C). In a large bowl, mix together the whole milk, sweetened condensed milk, and yogurt until smooth. Stir in the cardamom powder. Pour the mixture into oven-safe cups or ramekins.  Place the cups or ramekins in a baking dish and fill the dish with water until it reaches halfway up the sides of the cups. Bake for 25-30 minutes, or until the yogurt is set and has a slightly caramelized top. Remove from the oven and let cool. Serve chilled.\r\n"
+      },
+      {
+        "recipe_name": "chom chom",
+        "ingredients": ["4 cups whole milk", "2 tablespoons lemon juice", "4 cups water", "2 cups sugar", "2-3 cardamom pods", "1/4 cup sliced pistachios"],
+        "cooking_method": "In a heavy-bottomed pot, heat the whole milk over medium heat. When the milk comes to a boil, add the lemon juice and stir. The milk will curdle and the chhana will separate from the whey. Rinse the chhana under cold running water to remove any lemon flavor. Divide the chhana into small oval or cylindrical shapes and roll them between your palms until they become smooth. In a large pot, combine the sugar, water, and cardamom pods. Bring the mixture to a boil and stir until the sugar dissolves. Add the chhana to the syrup and let it simmer for 10-15 minutes until the chom choms become soft and spongy. Add a few drops of rose water to the syrup. Turn off the heat and let the chom choms cool in the syrup. Garnish the chom choms with sliced pistachios and serve chilled.\r\n"
+      },
+      {
+        "recipe_name": "Shondesh",
+        "ingredients": ["2 cups chhana", "1 cup sugar", "1/4 cup milk", "A few strands of saffron", "1/4 teaspoon cardamom powder", "2 tablespoons of ghee or butter", "Chopped pistachios for garnishing"],
+        "cooking_method": "In a heavy-bottomed pan, add the chhana, sugar, and milk. Cook the mixture over low heat, stirring constantly, until the sugar dissolves and the mixture becomes thick. Add the cardamom powder and saffron strands to the mixture and stir well. Add the ghee to the mixture and stir until it becomes thick and starts to leave the sides of the pan. Turn off the heat. Let the mixture cool slightly, and then knead it with your hands until it becomes smooth and lump-free. Divide the mixture into small round or diamond shapes and press each one gently between your palms to give it a smooth finish. Garnish each shondesh with chopped pistachios and refrigerate for at least an hour before serving.\r\n"
       }
     ]
   },
   {
-    "id": "644ff18a7b8bd4ebea8e37c3",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 20,
-    "food_name": "Caldwell Grimes",
-    "food_description": "Veniam qui do commodo reprehenderit elit officia laborum laborum. Minim eu dolore ex ipsum aliqua Lorem mollit incididunt cupidatat nisi aliquip irure laborum est. Dolor proident reprehenderit nulla cillum est et. Deserunt id voluptate ea officia fugiat esse aute ad cupidatat. Excepteur ut ullamco tempor aliquip aliqua proident mollit culpa laborum.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Watson Klein",
+    "id": "4",
+    "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+    "no_of_recipes": 3,
+    "food_name": "Kachchi Biriyani",
+    "food_description": "Kachchi Biriyani is a classic Bangladeshi dish made with marinated meat, aromatic spices, and long-grain Basmati rice that is cooked together in a pot with saffron, fried onions, and a variety of other ingredients.\r\n",
+    "chef_picture": "https://img.freepik.com/free-vector/chef-character-design_1322-128.jpg?w=740&t=st=1682967569~exp=1682968169~hmac=f190b3754689944c606ed84adc1ed351c2ed521ade34013658e4e8f574b213e0",
+    "chef_name": "Shawket Chowdhury",
     "likes": 523,
     "year_of_experience": 14,
+    "bio": "A Bangladeshi chef who has worked in several prestigious restaurants and hotels around the world.\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Nellie Carroll",
-        "ingredients": "20irure",
-        "cooking_method": "Aliquip ut ea duis commodo deserunt esse sit anim incididunt occaecat esse commodo esse. Quis labore do quis est dolore. Magna pariatur do esse aliqua commodo incididunt consequat id adipisicing consectetur ad ullamco est in. Nisi do eu proident deserunt occaecat dolore ad deserunt quis. Ut nulla consequat aliquip incididunt culpa est commodo laboris culpa. Ut tempor deserunt culpa id ad quis reprehenderit qui adipisicing voluptate quis mollit.\r\n",
-        "bio": "Non dolore in ad ea consequat amet qui amet. Adipisicing excepteur cupidatat eu eiusmod et ullamco ipsum. Incididunt ipsum ullamco consectetur irure in ad ad commodo id cillum. Amet labore culpa est eu nisi minim consequat. Ipsum irure sunt excepteur nostrud elit aliquip. Pariatur nisi nostrud est ullamco ea nostrud do qui anim sunt commodo eiusmod occaecat anim.\r\n"
+        "recipe_name": "Kachchi Biriyani",
+        "ingredients": ["2 lbs. bone-in mutton or beef", "3 cups Basmati rice", "2 cups thinly sliced onions", "1 cup plain yogurt", "1/2 cup clarified butter (ghee)", "1/4 cup milk", "1/4 cup vegetable oil"],
+        "cooking_method": "Cut the meat into small pieces and place it in a bowl. Add the yogurt, ginger paste, garlic paste, red chili powder, cumin powder, coriander powder, turmeric powder, garam masala powder, and salt. Mix well and marinate for at least 2 hours, or overnight in the refrigerator. Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown and crisp. Remove the onions from the oil and set them aside on paper towels to drain. In a large pot, layer the rice and meat mixture, starting with a layer of rice at the bottom of the pot, followed by a layer of meat, and then another layer of rice. Repeat the layers until all the rice and meat are used up. Pour the saffron-milk mixture and rose water over the top of the rice. Cover the pot with a tight-fitting lid and place it in the oven. Remove the pot from the oven and let it rest for 10 minutes. Fluff the rice with a fork and top it with the fried onions before serving.\r\n"
+      },
+      {
+        "recipe_name": "Tehari",
+        "ingredients": ["3 cups Basmati rice", "1 onion, chopped", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "1/2 cup clarified butter (ghee)", "1 potato, peeled and cubed", "1/4 cup vegetable oil"],
+        "cooking_method": "Rinse the rice in several changes of water and soak it in water for 20 minutes. Drain and set aside.Heat the vegetable oil in a large skillet over medium heat. Add the chopped onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Stir well and cook for 3-4 minutes. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Stir well and cook for another 2-3 minutes. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute. Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 2 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Tehari for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Fluff the rice with a fork before serving.\r\n"
+      },
+      {
+        "recipe_name": "Beef Tehari",
+        "ingredients": ["2 lbs. bone-in mutton or beef", "3 cups Basmati rice","2-3 garlic cloves, minced", "2 cups thinly sliced onions", "1 cup plain yogurt", "1/2 cup clarified butter (ghee)", "1/4 cup milk", "1/4 cup vegetable oil"],
+        "cooking_method": "Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the beef to the skillet and stir well. Cook until the beef is browned on all sides. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Stir well and cook for 3-4 minutes. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute.Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 4 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Beef Tehari for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Fluff the rice with a fork before serving.\r\n"
       }
     ]
   },
   {
-    "id": "644ff18ac3859b704470dbde",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 20,
-    "food_name": "Kirkland Powell",
-    "food_description": "Nisi tempor adipisicing sit ad. Pariatur sint cillum sit occaecat dolore proident consequat. Occaecat occaecat consequat commodo ut ad in Lorem ad mollit dolore sit. Anim cillum consectetur laborum labore qui amet aliquip mollit qui sint pariatur minim. Exercitation est ut quis commodo ad est aliqua. Culpa laboris excepteur amet est labore voluptate. Nostrud in culpa adipisicing do mollit nostrud nostrud ullamco irure Lorem id pariatur cillum ad.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Sonia Alvarado",
+    "id": "5",
+    "food_picture": "https://www.holidify.com/images/cmsuploads/compressed/Ilish_macher_paturi_20170829115529.jpg",
+    "no_of_recipes": 3,
+    "food_name": "Ilish Macher Jhol",
+    "food_description": "One of the much-favoured fishes in the region, Hilsa or ilish fish curry is something that you have got to try your hands on. The pungent smelling curry prepared with Nigella seeds and chilli to give it the required balance that makes it so perfect. You have got to try this one as it one of the staple food of West Bengal.\r\n",
+    "chef_picture": "https://img.freepik.com/free-vector/cute-chef-girl-smiling-uniform-welcoming-inviting-his-guests-cartoon-art-illustration_56104-578.jpg?w=900&t=st=1682968303~exp=1682968903~hmac=970d15a9f519fca8ef96d9fcc31088c43ec1f7043002dd112595f93be7f9465c",
+    "chef_name": "Madhumita Mohsin",
     "likes": 139,
     "year_of_experience": 9,
+    "bio": "A famous Bangladeshi cookbook author and television personality.\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Toni Floyd",
-        "ingredients": "2aliquip",
-        "cooking_method": "Labore ea fugiat aliquip enim tempor non eu incididunt enim nisi officia. Laborum excepteur incididunt ullamco commodo qui ex consequat non adipisicing. Nulla amet dolore est adipisicing amet amet ea esse sunt. Magna deserunt sint nulla qui cillum aliquip quis occaecat in. Officia in laborum Lorem qui quis.\r\n",
-        "bio": "Laboris id officia do excepteur sunt in. Fugiat fugiat fugiat aliquip magna enim. Lorem voluptate ullamco proident dolore eu non ea proident. Id ex quis fugiat reprehenderit. Ex amet deserunt ullamco deserunt Lorem. Proident Lorem aliqua nulla minim adipisicing anim nisi. Officia sint laborum in id aliquip labore laboris adipisicing mollit adipisicing ut sit sunt.\r\n"
+        "recipe_name": "Ilish Macher Jhol",
+        "ingredients": ["4 pieces of Hilsa fish", "1 onion, sliced", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "2-3 green chilies, slit", "1 teaspoon cumin powder"],
+        "cooking_method": "Clean and wash the Hilsa fish pieces and set aside. Heat the mustard oil in a large pan over medium heat. Add the sliced onions and fry until they are translucent.Add the minced garlic and ginger to the pan and fry for another minute. Add the chopped tomato to the pan and cook until it becomes soft and mushy. Add the cumin powder, coriander powder, turmeric powder, red chili powder (if using), and salt to the pan. Stir well and cook for another minute. Add the Hilsa fish pieces to the pan and gently stir to coat them with the spice mixture. Add 2 cups of water to the pan and bring the mixture to a boil. Reduce the heat to low and cover the pan with a lid. Simmer for 10-15 minutes, or until the fish is cooked through and the gravy thickens. Add the slit green chilies to the pan and cook for another minute.Garnish with fresh coriander leaves and serve hot with steamed rice.\r\n"
+      },
+      {
+        "recipe_name": "Ilish Macher Jhol",
+        "ingredients": ["2-3 bitter gourds, sliced", "1 small eggplant, diced", "1 potato, diced", "1 drumstick, cut into 2-inch pieces", "1 raw banana, diced", "1 tablespoon mustard oil", "1 teaspoon nigella seeds"],
+        "cooking_method": "Heat the mustard oil in a pan and add the nigella seeds, bay leaf, and green chilies. Sauté for a few seconds. Add the sliced bitter gourd and sauté for a minute or two. Remove the bitter gourd from the pan and keep it aside. In the same pan, add the diced potato, sweet potato, eggplant, drumstick, and raw banana. Sauté for a few minutes. Add the turmeric powder, salt, and grated ginger. Mix well. Add water and bring the mixture to a boil. Reduce the heat and let it simmer for 10-15 minutes until the vegetables are cooked through. Add the sautéed bitter gourd to the pan and mix well. Add milk and sugar to the pan and mix well. Let it simmer for another 2-3 minutes. Turn off the heat and add the ghee. Mix well. Serve hot with steamed rice.\r\n"
+      },
+      {
+        "recipe_name": "Aloo Potol Posto",
+        "ingredients": ["2-3 medium-sized potatoes, peeled and diced", "4-5 pointed gourds (potol), sliced", "2 tablespoons poppy seeds (posto)", "2-3 green chilies", "1/2 teaspoon turmeric powder", "1 teaspoon cumin powder", "2-3 tablespoons mustard oil"],
+        "cooking_method": "Soak the poppy seeds in water for 15-20 minutes. Drain the water and grind the poppy seeds with green chilies to make a smooth paste. Heat mustard oil in a pan and add the diced potatoes. Fry them till they turn golden brown. Remove the potatoes from the pan and keep them aside. In the same pan, add the potol pieces and fry them for 2-3 minutes. Remove them from the pan and keep them aside.Add a little more oil to the pan, if needed. Add the poppy seed paste, turmeric powder, salt, and sugar. Stir the mixture continuously until it starts to thicken.Add the fried potatoes and potol pieces to the pan and mix well. Add a little water to the pan, cover it, and let it cook over low heat for 10-15 minutes or until the vegetables are cooked through. Serve hot with steamed rice.\r\n"
       }
     ]
   },
   {
-    "id": "644ff18a016088f4a24e10d0",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 9,
-    "food_name": "Angelina Buckner",
+    "id": "6",
+    "food_picture": "https://www.holidify.com/images/cmsuploads/compressed/Mutton_Biryani_with_egg_and_salad_20170829120133.JPG",
+    "no_of_recipes": 3,
+    "food_name": "Mutton Biryani",
     "food_description": "Laborum duis amet sunt do et reprehenderit sit enim culpa. Elit nisi non consectetur et eu Lorem excepteur ea Lorem incididunt qui esse amet. Cillum officia enim ea tempor. Dolore aute veniam enim nulla cupidatat tempor aliqua nisi est quis minim labore consequat aliqua. Laborum nisi reprehenderit culpa dolore ipsum labore exercitation aliquip.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Marjorie Hart",
+    "chef_picture": "https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?size=626&ext=jpg&uid=R91745417&ga=GA1.1.1896121507.1673852466&semt=robertav1_2_sidr",
+    "chef_name": "Tareq Taylor",
     "likes": 874,
     "year_of_experience": 4,
+    "bio": "A famous Bangladeshi cookbook author and television personality\r\n",
     "chefs_recipes": [
       {
         "recipe_name": "Callahan Bauer",
-        "ingredients": "5occaecat",
-        "cooking_method": "Proident ullamco ipsum minim esse minim dolor fugiat veniam sint ipsum in laboris. Mollit laborum aliqua dolor esse dolore irure do ex elit deserunt aute aliqua quis. Aliqua reprehenderit non officia laborum do cillum non amet duis ex amet. Adipisicing consequat fugiat ut id ipsum anim irure laborum ullamco consectetur. Quis est sint consequat eiusmod dolore do labore excepteur exercitation est voluptate.\r\n",
-        "bio": "Ex ipsum proident non et. Ullamco ea mollit ipsum labore officia proident. Esse sit et est sint. Consectetur pariatur enim aute adipisicing do. Mollit commodo ipsum consectetur incididunt et quis. Velit elit commodo eiusmod laborum deserunt Lorem laboris.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a0f718daea251110b",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 3,
-    "food_name": "Rodgers Baker",
-    "food_description": "Excepteur mollit ea deserunt reprehenderit et dolore. Ex elit aliqua irure aute do velit eiusmod et excepteur fugiat elit. Culpa esse velit pariatur quis. Non Lorem nulla incididunt eu nostrud dolore ullamco velit amet deserunt labore. Officia et irure aliquip amet exercitation in quis. Tempor sint qui sint nulla Lorem proident nulla labore ea. Duis aliquip reprehenderit eu ut laborum est Lorem do.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Mack Russell",
-    "likes": 355,
-    "year_of_experience": 19,
-    "chefs_recipes": [
+        "ingredients": ["1 lb mutton, cut into small pieces", "2 cups Basmati rice", "1 onion, sliced", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "1 potato, peeled and cubed"],
+        "cooking_method": "Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the mutton to the skillet and stir well. Cook until the mutton is browned on all sides. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Stir well and cook for another 2-3 minutes. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute. Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 4 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Mutton Biriyani for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Add the soaked saffron strands to the biriyani and mix well. Garnish with fried onions and fresh coriander leaves before serving.\r\n"
+      },
       {
-        "recipe_name": "Lottie Bentley",
-        "ingredients": "3aliqua",
-        "cooking_method": "Eiusmod culpa dolor nulla pariatur. Officia pariatur irure officia tempor nostrud. Duis id occaecat anim deserunt veniam consectetur exercitation ad proident aute. Sunt deserunt exercitation sint proident aliqua labore. Consectetur consequat consectetur voluptate cupidatat minim occaecat in non officia et aute non.\r\n",
-        "bio": "Labore elit esse est labore. Elit eiusmod esse deserunt tempor velit. Ex ea ea elit velit ad mollit laborum aute. Aliquip deserunt eiusmod velit nulla sunt. Ea veniam esse laboris Lorem anim mollit reprehenderit excepteur ipsum.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18aed0406ea9aabe877",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 20,
-    "food_name": "Mcclain Mccoy",
-    "food_description": "Dolore cupidatat magna esse consequat qui laborum nisi nulla. Labore in ut non et culpa sunt aute ipsum. Officia adipisicing labore ut et exercitation. Qui enim fugiat occaecat sint Lorem do mollit cillum eiusmod duis ad sint. Exercitation mollit eu ullamco irure sunt Lorem magna id.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Glass Porter",
-    "likes": 648,
-    "year_of_experience": 7,
-    "chefs_recipes": [
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["1 pound beef,", "1 onion", "2 green chillies", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 tablespoon cumin powder", "1 tablespoon chilli powder", "oil"],
+        "cooking_method": "Heat oil in a large skillet or wok over medium-high heat. Add the onion and sauté until golden brown. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chopped tomatoes and green chilies and cook until the tomatoes are soft and mushy. Add the beef pieces to the skillet and stir well to coat them in the masala. Add salt to taste. The beef should release its own juices, which will help it cook. Once the beef is cooked, remove the lid and let the gravy thicken. Add the ingredients. Mix well. Cook the beef in the masala for a few more minutes until the masala is thick and coats the beef well. Garnish with fresh cilantro leaves and serve hot with rice or naan.\r\n"
+      },
       {
-        "recipe_name": "Clayton Hodges",
-        "ingredients": "13cillum",
-        "cooking_method": "Quis incididunt deserunt enim nostrud Lorem cillum nostrud ut in irure. Dolor ex laboris aute eiusmod ea. In amet aliqua aliquip tempor. Deserunt proident duis magna aliqua Lorem ipsum consectetur cillum tempor exercitation qui non nostrud Lorem. Nulla minim laboris fugiat voluptate cupidatat cupidatat incididunt eiusmod laboris ut exercitation cupidatat. Mollit non cillum consectetur laboris nostrud deserunt eiusmod velit est ullamco eiusmod officia.\r\n",
-        "bio": "Lorem dolor aliquip esse excepteur fugiat nisi et eu eu magna velit ad labore irure. Ut occaecat nisi proident est voluptate ut eu non est ut. Dolore exercitation sunt amet eiusmod non voluptate mollit sunt in. Consectetur reprehenderit dolor voluptate adipisicing officia enim occaecat adipisicing labore exercitation. Cupidatat consectetur mollit dolore enim. Minim voluptate elit magna eu duis officia do velit Lorem duis dolore consequat.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a383fa2a3e388815f",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 16,
-    "food_name": "Katharine Mullen",
-    "food_description": "Ullamco magna velit aliquip veniam ullamco incididunt dolore ea fugiat quis laboris. Ad irure elit non Lorem cupidatat non est Lorem elit non. Cillum excepteur qui irure velit labore ut magna proident voluptate incididunt in commodo ullamco. Pariatur do ut eu incididunt excepteur qui officia laboris magna sint consectetur esse ea. Minim sint fugiat occaecat consectetur proident aliqua quis incididunt. Tempor aliquip aute reprehenderit adipisicing eiusmod culpa duis proident enim pariatur proident.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Myrtle Mcintosh",
-    "likes": 247,
-    "year_of_experience": 17,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Hamilton Nolan",
-        "ingredients": "6minim",
-        "cooking_method": "Consectetur magna non minim esse fugiat enim fugiat dolor laboris pariatur. Aute dolore incididunt Lorem aute cupidatat reprehenderit. Ex consequat velit est qui ut aliquip culpa nostrud est sint qui enim excepteur voluptate. Est est est sunt esse ad est amet dolore labore id Lorem Lorem incididunt.\r\n",
-        "bio": "Aute in esse incididunt incididunt elit adipisicing sunt quis nisi ad magna. Dolor exercitation est ipsum mollit laboris commodo sunt reprehenderit ea minim Lorem ullamco. Esse do ullamco occaecat deserunt voluptate ad eiusmod proident aliqua. Cupidatat nulla do Lorem mollit Lorem reprehenderit laboris quis laborum mollit sint.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a95f483513d8f7449",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 4,
-    "food_name": "Elba Manning",
-    "food_description": "Amet exercitation eiusmod dolore Lorem. Sint sit dolor laborum pariatur. Ea aute occaecat non laborum ipsum ut sunt. Labore fugiat sit aliqua et non consequat incididunt.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Eloise Hurley",
-    "likes": 1809,
-    "year_of_experience": 8,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Lindsey Houston",
-        "ingredients": "7consectetur",
-        "cooking_method": "Lorem anim ipsum sit ex. Labore anim velit culpa excepteur eu qui deserunt fugiat ut. Culpa reprehenderit sint minim irure nisi dolore culpa est proident incididunt ea tempor eu. Labore excepteur reprehenderit sit aliqua amet aute irure labore occaecat. Minim consectetur do dolor fugiat eiusmod id do sunt laborum Lorem nulla quis. Consequat occaecat sint elit nostrud magna. Officia elit sunt non consectetur.\r\n",
-        "bio": "Incididunt ex officia laboris officia anim cillum eiusmod Lorem labore. Amet labore aliquip laboris ex sint sint exercitation non. Cillum et ipsum consectetur cillum mollit aliquip occaecat ex laboris nostrud do. Fugiat proident dolore aute nostrud minim ullamco consequat incididunt fugiat laborum. Aliquip quis id ut duis ad quis sint enim non ex dolor velit irure. Ex ad et et nulla ea deserunt enim. Mollit tempor deserunt ipsum commodo est.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a3d2e17794e6cfe1a",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 6,
-    "food_name": "Durham Logan",
-    "food_description": "Labore ea cillum dolor do ex nulla qui duis est commodo. Amet dolor aute ea ullamco laboris minim qui cupidatat sint. Exercitation aute id duis duis ad cupidatat ex anim aliqua ipsum consequat non nisi. Veniam magna ad labore consequat laboris culpa tempor cillum. Consectetur velit mollit magna cupidatat consectetur culpa magna laborum deserunt non nostrud ipsum occaecat.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Sims Maldonado",
-    "likes": 434,
-    "year_of_experience": 10,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Goodwin Curtis",
-        "ingredients": "6officia",
-        "cooking_method": "Laboris nulla ipsum et excepteur nisi Lorem. Cupidatat sit et aute enim officia id adipisicing. Proident commodo mollit in laborum aliquip ex dolor ad veniam cillum veniam non.\r\n",
-        "bio": "Quis mollit fugiat ipsum irure fugiat qui adipisicing esse duis nisi labore pariatur id magna. Aliqua occaecat consectetur et labore aliquip excepteur velit ad. Anim est velit aliqua ex mollit ea veniam est ut reprehenderit exercitation. Magna mollit mollit id proident Lorem amet proident anim. Nulla elit do non exercitation magna nulla qui nostrud consectetur mollit irure consectetur ea.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a21fbaf2baec27edc",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 13,
-    "food_name": "Johanna Pruitt",
-    "food_description": "In eiusmod laborum consectetur adipisicing duis officia. Laboris nisi eiusmod ea Lorem dolor mollit elit irure sint reprehenderit minim irure. Incididunt officia sunt irure laborum incididunt enim Lorem.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Bowers Cooke",
-    "likes": 1468,
-    "year_of_experience": 17,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Althea Witt",
-        "ingredients": "6nostrud",
-        "cooking_method": "Do commodo do officia quis laborum laboris amet. Occaecat eiusmod quis cupidatat eiusmod minim et adipisicing aliqua consectetur non nulla et labore quis. Tempor excepteur magna reprehenderit nostrud ad ut eu cillum laboris irure id consectetur aliqua sint. Laboris sint dolore cillum minim ullamco deserunt laborum sit culpa.\r\n",
-        "bio": "Proident amet nisi ut exercitation cupidatat. Consequat ea tempor anim non elit labore reprehenderit. Enim nulla nisi ea anim ad ipsum non.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18ac379bd9230b51f64",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 15,
-    "food_name": "Lindsey Landry",
-    "food_description": "Occaecat ad elit nisi aliqua ipsum veniam et cillum minim. Consequat ad excepteur deserunt pariatur proident pariatur id laborum dolore ad nisi ea. Aliquip do deserunt irure do. Incididunt id nisi sint cupidatat deserunt cupidatat magna irure exercitation officia voluptate duis. Id nisi qui ad pariatur incididunt officia dolor aliqua exercitation magna ex et eu. Laboris duis ut ea dolore nulla excepteur exercitation mollit culpa ipsum in. Dolor pariatur amet veniam amet.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Orr Jensen",
-    "likes": 150,
-    "year_of_experience": 9,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Nichols Salazar",
-        "ingredients": "8enim",
-        "cooking_method": "Amet cupidatat enim laborum adipisicing minim nostrud commodo ad sit amet id dolore. In ullamco exercitation nisi nostrud Lorem dolor consectetur elit excepteur labore duis ex veniam. Amet laborum veniam non qui do officia sint id mollit. Eu consequat do nulla consectetur nostrud labore.\r\n",
-        "bio": "Eu reprehenderit exercitation duis ullamco anim veniam dolore sunt consequat excepteur irure quis aute. Duis et officia duis nostrud. Velit magna laborum occaecat nostrud et adipisicing nostrud esse deserunt eiusmod. Id ut consequat occaecat est sunt aliquip in in aliqua.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a825131d6dc5820a7",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 10,
-    "food_name": "Earlene Farley",
-    "food_description": "Voluptate consectetur sit occaecat commodo excepteur. Sunt sint aute quis veniam esse ea officia culpa anim cupidatat magna. Qui velit laborum proident exercitation sint consequat pariatur occaecat ullamco ea eiusmod ex mollit. Nulla aliquip exercitation non fugiat reprehenderit aute minim laborum cillum est nulla esse. Minim enim enim commodo culpa qui officia do duis dolor. Lorem ut irure adipisicing consectetur duis deserunt pariatur non officia sunt.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Chelsea Boyle",
-    "likes": 1537,
-    "year_of_experience": 1,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Millicent Robbins",
-        "ingredients": "15voluptate",
-        "cooking_method": "Deserunt est duis labore excepteur dolor. Ut ullamco laborum tempor elit. Laboris mollit cillum laborum in cillum consectetur eiusmod dolore cillum et mollit dolor cillum. Ipsum amet aliqua reprehenderit sint eiusmod minim occaecat adipisicing ut.\r\n",
-        "bio": "Dolor aute deserunt do sit. Nisi anim pariatur esse nulla cillum anim ad commodo magna ea enim nostrud. Eiusmod enim amet ullamco velit dolore. Reprehenderit culpa nostrud do veniam do eiusmod pariatur quis labore sint sunt.\r\n"
-      }
-    ]
-  },
-  {
-    "id": "644ff18a7454aa37f4e5db20",
-    "food_picture": "http://placehold.it/32x32",
-    "no_of_recipes": 18,
-    "food_name": "Boone Clay",
-    "food_description": "Aute magna mollit non qui nulla amet id tempor est duis tempor amet. Consequat aute sunt laborum adipisicing exercitation velit magna tempor. Nisi eu sunt ad eu excepteur ex laborum anim quis esse. Incididunt labore veniam aliqua nulla eu reprehenderit deserunt. Aliqua ipsum eu irure esse officia.\r\n",
-    "chef_picture": "http://placehold.it/32x32",
-    "chef_name": "Ines Love",
-    "likes": 541,
-    "year_of_experience": 10,
-    "chefs_recipes": [
-      {
-        "recipe_name": "Joanne Fry",
-        "ingredients": "9voluptate",
-        "cooking_method": "Consectetur Lorem tempor occaecat Lorem nostrud veniam pariatur duis ipsum pariatur. Occaecat excepteur cupidatat deserunt minim ut esse exercitation veniam. Ad in est in fugiat non est. Incididunt Lorem anim elit laboris et incididunt et excepteur dolor qui. Commodo esse adipisicing sunt aliquip tempor irure laborum mollit aute.\r\n",
-        "bio": "Esse officia mollit dolor do aute qui. Et est consectetur adipisicing magna aliquip reprehenderit ad anim qui Lorem. Proident velit ipsum labore sint ullamco enim in cupidatat adipisicing aliqua dolor tempor fugiat. Dolore officia amet ex id do sunt aliquip nostrud quis Lorem ea. Aute cillum reprehenderit elit non nostrud anim magna.\r\n"
+        "recipe_name": "Chicken Biriyani",
+        "ingredients": ["2 cups basmati rice", "1 pound boneless chicken", "1 large onion", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon garam masala powder", "salt and oil"],
+        "cooking_method": "Heat oil in a large pot or Dutch oven over medium-high heat. Add the biryani masala ingredients and sauté for a minute or two until fragrant. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chicken pieces to the pot and stir well to coat them in the masala. Add salt to taste. Add the yogurt to the pot and mix well. Cover the pot with a lid and let the chicken cook. In a separate pot, boil 4 cups of water. Drain the soaked rice and add it to the boiling water along with salt to taste. Cook the rice until it is about 80% done. Drain the rice and keep it aside. Once the chicken is cooked, layer the rice on top of the chicken in the pot. Cover the pot with a tight-fitting lid and let the biryani cook on low heat for 10-15 minutes. Turn off the heat and let the biryani rest for 5-10 minutes. Garnish with fresh cilantro leaves and serve hot with raita.\r\n"
       }
     ]
   }
-]
