@@ -10,7 +10,13 @@ app.get('/',  (req, res) => {
     res.send("Hello from Bengali Cuisine");
 });
 
-app.get("/allRecipes", (req, res) => {
+app.get('/recipes/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedRecipe = allRecipes.find(n => n.id === id);
+    res.send(selectedRecipe);
+})
+
+app.get("/recipes", (req, res) => {
     res.send(allRecipes);
 })
 
