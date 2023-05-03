@@ -5,6 +5,7 @@ app.use(cors());
 
 const allRecipes = require("./data.json");
 const port = process.env.PORT || 5000;
+const categories = require("./food.json");
 
 app.get('/',  (req, res) => {
     res.send("Hello from Bengali Cuisine");
@@ -18,6 +19,10 @@ app.get('/recipes/:id', (req, res) => {
 
 app.get("/recipes", (req, res) => {
     res.send(allRecipes);
+})
+
+app.get('/categories', (req, res) => {
+    res.send(categories);
 })
 
 app.listen(port, () => {

@@ -1,71 +1,199 @@
 [
     {
-      "id": "6451ee2c2f689ed7ee9ca439",
-      "category": "Juliet Wise",
+      "id": "1",
+      "category": "Fruits",
       "foods": [
         {
-          "food_name": "Aida",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Apples",
+          "food_picture": "https://img.freepik.com/free-photo/apples-tree_144627-2096.jpg?w=740&t=st=1683091591~exp=1683092191~hmac=5e4cdd426e2bdbb7a60a5050403c1e2276788d9d043f5d2da1bcd17236488990"
+        },
+        {
+          "food_name": "oranges",
+          "food_picture": "https://img.freepik.com/free-photo/closeup-shot-delicious-fresh-oranges-tree_181624-14410.jpg?w=996&t=st=1683091632~exp=1683092232~hmac=42c13fbaec6db620bbfd32f121f377b07f64c8cbed9a93989e243f7c7f09915d"
+        },
+        {
+          "food_name": "Bananas",
+          "food_picture": "https://img.freepik.com/free-photo/yellow-banana-fruit_1203-7489.jpg?w=996&t=st=1683091685~exp=1683092285~hmac=a941ad79a24947195e26ef3ef65a2e2d512e02c788aa4f02c03b2cec6bce96d9"
+        },
+        {
+          "food_name": "Grapes",
+          "food_picture": "https://img.freepik.com/free-photo/grapes-basket-picnic-cloth-plaster-high-angle-view_176474-10424.jpg?w=996&t=st=1683091723~exp=1683092323~hmac=5df0961d921cbc88060ffc7a0f7cce5122c60dd8b1e75088f8335dedd882750d"
+        },
+        {
+          "food_name": "Berries",
+          "food_picture": "https://img.freepik.com/free-photo/fresh-forest-berries-white_144627-34496.jpg?w=996&t=st=1683091760~exp=1683092360~hmac=fdba1dcd8714a9b9c6043703622e61e61bf4cda08aec7798291b9d7dd0937abb"
+        },
+        {
+          "food_name": "Mangoes",
+          "food_picture": "https://media.healthyfood.com/wp-content/uploads/2022/01/5-health-benefits-of-mango-iStock-463651383.jpg"
+        },
+        {
+          "food_name": "Pineapples",
+          "food_picture": "https://img.freepik.com/free-photo/raw-fresh-texture-vitamin-fruit_1172-220.jpg?w=740&t=st=1683091894~exp=1683092494~hmac=7bfb068fb6f0ee03dde6a36eaec831659d32dffc69af20ae2b2c066ad40e3213"
         }
       ]
     },
     {
-      "id": "6451ee2c5a509a35c30860f7",
-      "category": "Tricia Love",
+      "id": "0",
+      "category": "Rice dishes",
       "foods": [
         {
-          "food_name": "Kaitlin",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Rice",
+          "food_picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/06/how-to-cook-basmati-rice-2.jpg"
+        },
+        {
+          "food_name": "Biryani",
+          "food_picture": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg"
+        },
+        {
+          "food_name": "Pulao",
+          "food_picture": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/pulao-recipe-500x500.jpg"
+        },
+        {
+          "food_name": "Khichuri",
+          "food_picture": "https://3.bp.blogspot.com/-SwzRVL3LMpY/T-d2ejiH-sI/AAAAAAAAAWs/Vis8WgmkFQs/s1600/shobji_khichuri.JPG"
+        },
+        {
+          "food_name": "Chitol Muri",
+          "food_picture": "https://images.news18.com/static-bengali/2022/03/muri1.jpg"
         }
       ]
     },
     {
-      "id": "6451ee2c4754108a8256212b",
-      "category": "Warner Moody",
+      "id": "3",
+      "category": "Meat dishes",
       "foods": [
         {
-          "food_name": "Owen",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Chicken Curry",
+          "food_picture": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683092578~exp=1683093178~hmac=ca7f0cd59d7e6922e1158abc6de51a6c98bad329e518c8674db1b977f138a95b"
+        },
+        {
+          "food_name": "Beef Curry",
+          "food_picture": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=740&t=st=1683092599~exp=1683093199~hmac=8bb214ac5e3a1841ac0bd845bd181d463d11b721b9d13ca551c0b598604ca792"
+        },
+        {
+          "food_name": "Mutton Curry",
+          "food_picture": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371732.jpg?w=740&t=st=1683092551~exp=1683093151~hmac=962a32281c98f2438ae413e0b42ad2fe7f1fdfba8430b511f18f065a4ae1e69c"
+        },
+        {
+          "food_name": "Kebabs",
+          "food_picture": "https://img.freepik.com/free-photo/azerbaijani-lyulya-kebab-with-potatoes-vegetables_140725-908.jpg?w=740&t=st=1683092494~exp=1683093094~hmac=b637c6d1995b8d7271fb13a2b677acc3eeda955cb8fa2bc63788f30e6efa2a8c"
         }
       ]
     },
     {
-      "id": "6451ee2cf40e72b0b000b68c",
-      "category": "Lowery English",
+      "id": "4",
+      "category": "Seafood dishes",
       "foods": [
         {
-          "food_name": "Myrtle",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Hilsa Fish Curry",
+          "food_picture": "https://kitchenofdebjani.com/wp-content/uploads/2021/08/Ilish-Beguner-Jhol-recipe-debjanir-rannaghar.jpg"
+        },
+        {
+          "food_name": "Shrimp Curry",
+          "food_picture": "https://www.allrecipes.com/thmb/9rsfnXzeDI9L4lesKKNmcwioDic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/93597-authentic-and-easy-shrimp-curry-DDMFS-4x3-1-13e45ac2f0344418bcb41d8ecb979d41.jpg"
+        },
+        {
+          "food_name": "Fish Bhuna",
+          "food_picture": "https://grubvineweb.com/wp-content/uploads/2022/08/Bengali-Fish-curry-Recipe-Main-Image-Grubvineweb.webp"
+        },
+        {
+          "food_name": "Sutki Bhuna",
+          "food_picture": "https://cdn.shopify.com/s/files/1/2923/8638/products/d634d010092304be0b03db9725133a32_1509095607_grande.jpg?v=1536370282"
         }
       ]
     },
     {
-      "id": "6451ee2c1be3dbe333c4ceee",
-      "category": "June Bailey",
+      "id": "5",
+      "category": "Vegetarian Dishes",
       "foods": [
         {
-          "food_name": "Yolanda",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Dal",
+          "food_picture": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/masoor-dal-recipe.jpg"
+        },
+        {
+          "food_name": "Aloo Gobi",
+          "food_picture": "https://www.slimmingeats.com/blog/wp-content/uploads/2020/01/aloo-gobi-27-720x540.jpg"
+        },
+        {
+          "food_name": "Mixed Vegetable Curry",
+          "food_picture": "https://img.freepik.com/free-photo/vegetarian-stew-eggplants-bell-peppers-onions-garlic-tomatoes-with-herbs_2829-11005.jpg?w=740&t=st=1683093422~exp=1683094022~hmac=542b348f7545e9bb1e8b1d7b9ec03d6ff3b1ff1be532c1d45b4569fc44ced71a"
+        },
+        {
+          "food_name": "Chapor Ghonto",
+          "food_picture": "https://img-global.cpcdn.com/recipes/fcb40aedcd432a96/1200x630cq70/photo.jpg"
+        },
+        {
+          "food_name": "Dim Bhuna",
+          "food_picture": "https://img-global.cpcdn.com/recipes/be54d20e4e767648/680x482cq70/%E0%A6%A1%E0%A6%AE-%E0%A6%AD%E0%A6%A8dim-bhuna-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg"
+        },
+        {
+          "food_name": "Mochar Ghonto",
+          "food_picture": "https://pikturenama.com/wp-content/uploads/2022/03/Low-res-Mochar-Ghonto-with-Logo-3-1080x675.jpg"
+        },
+        {
+          "food_name": "Chorchori",
+          "food_picture": "https://2.bp.blogspot.com/_c1GyAdVMPgw/Si9L2YT3jyI/AAAAAAAABRM/6czWGBhBsFw/s280/chorchori3.jpg"
         }
       ]
     },
     {
-      "id": "6451ee2cd425f28d9a406583",
-      "category": "Rosanne Simpson",
+      "id": "6",
+      "category": "Snacks and Street Foods",
       "foods": [
         {
-          "food_name": "Frazier",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Samosas",
+          "food_picture": "https://img.freepik.com/free-photo/delicious-pakistani-food-with-tomato-sauce_23-2148825164.jpg?w=740&t=st=1683093800~exp=1683094400~hmac=81ce8911988c4ecb55bb94da90162baec9071e6c227465f683d27d7c723bf478"
+        },
+        {
+          "food_name": "Fuchka",
+          "food_picture": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/11/05/fuchka3_1.jpg"
+        },
+        {
+          "food_name": "Cotpoti",
+          "food_picture": "https://i.ytimg.com/vi/8IyR8NJ17E0/maxresdefault.jpg"
+        },
+        {
+          "food_name": "Jhalmuri",
+          "food_picture": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jhal-muri-500x500.jpg"
+        },
+        {
+          "food_name": "Jilapi",
+          "food_picture": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2020/05/14/jilapi.jpg"
+        },
+        {
+          "food_name": "Chola",
+          "food_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXpWZcSebDSz-ECO4mNlFTtL-vMVGjJN3iQ&usqp=CAU"
         }
       ]
     },
     {
-      "id": "6451ee2c5859da3877f5f43d",
-      "category": "Carlson Castaneda",
+      "id": "7",
+      "category": "Sweets and Desserts",
       "foods": [
         {
-          "food_name": "Bernard",
-          "food_picture": "http://placehold.it/32x32"
+          "food_name": "Rasgulla",
+          "food_picture": "https://recipes.timesofindia.com/thumb/52743612.cms?width=1200&height=900"
+        },
+        {
+          "food_name": "sandesh",
+          "food_picture": "https://www.thespruceeats.com/thmb/C-K049depH6yu-aj8paUKN29zJw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3244991150_9c7f008761_o-5835aedf5f9b58d5b15308ce.jpg"
+        },
+        {
+          "food_name": "Mishti Doi",
+          "food_picture": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg"
+        },
+        {
+          "food_name": "Rosomalai",
+          "food_picture": "https://www.divyaszaika.com/wp-content/uploads/2013/07/bread-rasmalai.1024x1024.jpg"
+        },
+        {
+          "food_name": "Semai",
+          "food_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhH-KCKFf05_lIIBRPRu9kpuKJXnw4KSvwfw&usqp=CAU"
+        },
+        {
+          "food_name": "Semai",
+          "food_picture": "https://images.deliveryhero.io/image/fd-bd/LH/d7bo-hero.jpg"
         }
       ]
     }
