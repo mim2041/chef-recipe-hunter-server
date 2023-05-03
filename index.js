@@ -11,18 +11,29 @@ app.get('/',  (req, res) => {
     res.send("Hello from Bengali Cuisine");
 });
 
-app.get('/recipes/:id', (req, res) => {
-    const id = req.params.id;
-    const selectedRecipe = allRecipes.find(n => n.id === id);
-    res.send(selectedRecipe);
-})
+
 
 app.get("/recipes", (req, res) => {
     res.send(allRecipes);
 })
 
+app.get('/recipes/:id', (req, res) => {
+    // const id = req.params.id;
+    // console.log(id);
+    // const course = allCourses.find((course) => course.id === id);
+    // res.send(course);
+    const id = req.params.id;
+    const selectedRecipe = allRecipes.find(n => n.id === id);
+    res.send(selectedRecipe);
+})
 app.get('/categories', (req, res) => {
     res.send(categories);
+})
+app.get('/categories/:category', (req, res) => {
+    const category = req.params.category;
+    
+    const categoryItems = categories.filter(food => food.category === category);
+    res.send(categoryItems);
 })
 
 app.listen(port, () => {
