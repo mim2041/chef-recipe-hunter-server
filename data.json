@@ -13,16 +13,22 @@
     "chefs_recipes": [
       {
         "recipe_name": "Beef Bhuna",
+        "ratings": 5,
+        "recipe_img":"https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?w=996&t=st=1683175925~exp=1683176525~hmac=dd389e0fff6f704de8a871c2447172e4266e4c0030d02c31909f22a4ee94ae26",
         "ingredients": ["1 pound beef,", "1 onion", "2 green chillies", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 tablespoon cumin powder", "1 tablespoon chilli powder", "oil"],
         "cooking_method": "Heat oil in a large skillet or wok over medium-high heat. Add the onion and sauté until golden brown. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chopped tomatoes and green chilies and cook until the tomatoes are soft and mushy. Add the beef pieces to the skillet and stir well to coat them in the masala. Add salt to taste. The beef should release its own juices, which will help it cook. Once the beef is cooked, remove the lid and let the gravy thicken. Add the ingredients. Mix well. Cook the beef in the masala for a few more minutes until the masala is thick and coats the beef well. Garnish with fresh cilantro leaves and serve hot with rice or naan.\r\n"
       },
       {
         "recipe_name": "Chicken Biriyani",
+        "ratings": 4,
+        "recipe_img":"https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
         "ingredients": ["2 cups basmati rice", "1 pound boneless chicken", "1 large onion", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon garam masala powder", "salt and oil"],
         "cooking_method": "Heat oil in a large pot or Dutch oven over medium-high heat. Add the biryani masala ingredients and sauté for a minute or two until fragrant. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chicken pieces to the pot and stir well to coat them in the masala. Add salt to taste. Add the yogurt to the pot and mix well. Cover the pot with a lid and let the chicken cook. In a separate pot, boil 4 cups of water. Drain the soaked rice and add it to the boiling water along with salt to taste. Cook the rice until it is about 80% done. Drain the rice and keep it aside. Once the chicken is cooked, layer the rice on top of the chicken in the pot. Cover the pot with a tight-fitting lid and let the biryani cook on low heat for 10-15 minutes. Turn off the heat and let the biryani rest for 5-10 minutes. Garnish with fresh cilantro leaves and serve hot with raita.\r\n"
       },
       {
         "recipe_name": "Aam Pora Shorbot",
+        "recipe_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7kU0_Kj4v_UEaTrOAvSgpB_GWJ-IDTUTYw&usqp=CAU",
+        "ratings": 5,
         "ingredients": ["2 raw mangoes", "1/2 cup fresh mint leaves", "1/4 teaspoon chili powder", "1/4 cup sugar", "4 cups water"],
         "cooking_method": "Wash the raw mangoes and pat them dry. Roast the mangoes in the oven for 30-40 minutes. Once the mangoes are roasted, let them cool down. Remove the skin and discard the seeds. In a blender, puree the roasted mango flesh along with fresh mint leaves and water until smooth. Add the roasted cumin powder, black salt, chili powder, and sugar to the bowl/pitcher and stir well until the sugar dissolves. You can add more sugar if the shorbot is too tangy or more black salt if it's not salty enough. To serve, pour the chilled shorbot into glasses filled with ice cubes. Garnish with fresh mint leaves and serve immediately.\r\n"
       }
@@ -42,21 +48,29 @@
     "chefs_recipes": [
       {
         "recipe_name": "Chicken Tikka Masala",
+        "recipe_img":"https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=996&t=st=1683176763~exp=1683177363~hmac=c82823a6dd6802c31c3ab025d1867c142c8ff24ec854864b5157f26240272aa2",
+        "ratings": 5,
         "ingredients": ["1 pound boneless chicken", "1/2 cup plain yogurt", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "oil and salt"],
         "cooking_method": "In a mixing bowl, combine all the ingredients for the marinade and mix well. Add the chicken pieces and mix until the chicken is well coated. Bake the chicken for 15-20 minutes.In a separate pan, heat 1 tablespoon of oil over medium-high heat. Add the chopped onions and sauté until they are soft and golden brown. Add the ginger and garlic paste and sauté. Add the chopped tomatoes to the pan and cook until they are soft and mushy. Add the cumin powder, coriander powder, turmeric powder, paprika, and garam masala to the pan and mix well. Let the sauce simmer for another 2-3 minutes. Add the cooked chicken pieces to the sauce and mix well. Let the chicken simmer in the sauce for 5-7 minutes.  Garnish with fresh cilantro leaves and serve hot with naan bread or steamed rice.\r\n"
       },
       {
         "recipe_name": "Lemon Garlic Roasted Chicken Thighs",
+        "recipe_img":"https://img.freepik.com/free-photo/top-close-up-view-chicken-chicken-with-lemon-onion-herbs-lavash_140725-71677.jpg?w=996&t=st=1683176788~exp=1683177388~hmac=8bb16a2fe1ff50b927af57a5b9c8b2d3144b484200de7073653ad30f476d1e8a",
+        "ratings": 5,
         "ingredients": ["6 bone-in, skin-on chicken thighs", "1/2 cup plain yogurt", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon coriander powder", "oil and salt"],
         "cooking_method": "Preheat your oven to 425°F (220°C). Line a baking sheet with parchment paper. In a mixing bowl, whisk together the olive oil, lemon juice, Dijon mustard, minced garlic, and dried oregano. Season the chicken thighs with salt and pepper on both sides. Place the chicken thighs on the prepared baking sheet, skin side up. Brush the lemon garlic mixture all over the chicken thighs. Roast the chicken thighs in the oven for 30-35 minutes, or until the skin is golden brown and crispy and the internal temperature of the chicken reaches 165°F (74°C). Garnish with lemon slices and fresh herbs and serve hot.\r\n"
       },
       {
         "recipe_name": "Chicken Alfredo Pasta",
+        "recipe_img":"https://img.freepik.com/free-photo/penne-with-cheese-cream_140725-376.jpg?w=900&t=st=1683176835~exp=1683177435~hmac=e5c9bb76357cd59daeca24e5f12d36901dfb1196d41ef562a779262c38503228",
+        "ratings": 5,
         "ingredients": ["1 pound boneless chicken", "1 pound fettuccine pasta", "1/2 cup unsalted butter", "2 cups heavy cream", "1 cup grated Parmesan cheese", "Salt and black pepper", "Fresh parsley leaves, chopped"],
         "cooking_method": "Cook the fettuccine pasta according to the package instructions until al dente. Drain the pasta and set aside. In a large skillet, melt the butter over medium heat.Add the minced garlic to the skillet and sauté for 1-2 minutes until fragrant. Add the chicken pieces to the skillet and season with salt and pepper. Cook until the chicken is cooked through and golden brown on all sides. Add the heavy cream to the skillet. Add the grated Parmesan cheese to the skillet and stir until the cheese has melted and the sauce is smooth. Add the cooked fettuccine pasta to the skillet and toss until the pasta is well coated with the sauce. Taste the pasta and adjust the seasoning as needed. Garnish with fresh parsley leaves and serve hot. Slow Cooker Chicken Tacos\r\n"
       },
       {
         "recipe_name": "Slow Cooker Chicken Tacos",
+        "recipe_img":"https://img.freepik.com/free-photo/chicken-stir-fry-vegetables-wooden-table_123827-21335.jpg?w=996&t=st=1683176860~exp=1683177460~hmac=ea0578c31c44b62f0fa5daafcf8633af677e0961706632885b95e447c456c8a6",
+        "ratings": 5,
         "ingredients": ["2 pound boneless chicken,", "1 cup chicken broth", "1 packet taco seasoning", "1/2 cup salsa", "Corn or flour tortillas", "Toppings of your choice (shredded cheese, diced tomatoes, chopped onions, avocado slices, sour cream, etc.)"],
         "cooking_method": "Place the chicken breasts in a slow cooker.In a mixing bowl, whisk together the chicken broth, taco seasoning, and salsa. Pour the mixture over the chicken in the slow cooker. Cover the slow cooker and cook on low for 6-8 hours or on high for 3-4 hours, or until the chicken is cooked through and tender. Shred the chicken with two forks. Warm up the tortillas in a microwave or in a pan. Fill the tortillas with the shredded chicken and your favorite toppings. Serve hot and enjoy your delicious Slow Cooker Chicken Tacos!\r\n"
       }
@@ -76,26 +90,36 @@
     "chefs_recipes": [
       {
         "recipe_name": "Shahi Tukra",
+        "recipe_img":"https://www.whiskaffair.com/wp-content/uploads/2019/03/Shahi-Tukda-2-3.jpg",
+        "ratings": 5,
         "ingredients": ["6-8 slices of bread", "2 cups of milk", "1/2 cup of condensed milk", "1/4 cup of water", "1/4 cup of chopped nuts", "2 tablespoons of ghee or butter", "Oil for frying the bread slices"],
         "cooking_method": "Trim the edges of the bread slices and cut them into halves. Heat oil in a deep frying pan. In a separate pan, heat the ghee and add the chopped nuts. Sauté the nuts for a few minutes until they are lightly browned. Remove them from the pan and set aside. In the same pan, add the milk, condensed milk, and cardamom powder. Stir well and bring the mixture to a boil. Dip the fried bread slices in the milk mixture, making sure they are fully coated. Arrange the coated bread slices on a serving dish. In a separate pan, combine the sugar and water and bring the mixture to a boil, stirring continuously until the sugar dissolves completely. Pour the sugar syrup over the bread slices. Sprinkle the chopped nuts over the top. Serve the chilled Shahi Tukra as a delicious dessert. Enjoy!\r\n"
       },
       {
         "recipe_name": "Rasgulla",
+        "recipe_img":"https://recipes.timesofindia.com/thumb/52743612.cms?width=1200&height=900",
+        "ratings": 5,
         "ingredients": ["1 liter whole milk", "1/4 cup lemon juice", "3 cups water", "2 cups sugar", "1/4 teaspoon cardamom powder"],
         "cooking_method": "In a large pot, bring the milk to a boil. Add the lemon juice and stir until the milk curdles and the whey separates. Remove the pot from the heat and strain the curdled milk through a cheesecloth. Rinse the cheese under cold water to remove the lemon flavor. Squeeze out the excess water from the cheese and shape it into small balls. In a separate pot, bring the water and sugar to a boil until the sugar dissolves. Add the cardamom powder and the cheese balls to the syrup. Remove from heat and let cool. Serve chilled or at room temperature.\r\n"
       },
       {
         "recipe_name": "Mishti Doi",
+        "recipe_img":"https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+        "ratings": 5,
         "ingredients": ["2 cups whole milk", "1/2 cup sweetened condensed milk", "1/4 cup plain yogurt", "1/4 teaspoon cardamom powder", "sugar"],
         "cooking_method": "Preheat your oven to 350°F (175°C). In a large bowl, mix together the whole milk, sweetened condensed milk, and yogurt until smooth. Stir in the cardamom powder. Pour the mixture into oven-safe cups or ramekins.  Place the cups or ramekins in a baking dish and fill the dish with water until it reaches halfway up the sides of the cups. Bake for 25-30 minutes, or until the yogurt is set and has a slightly caramelized top. Remove from the oven and let cool. Serve chilled.\r\n"
       },
       {
         "recipe_name": "chom chom",
+        "recipe_img":"",
+        "ratings": 5,
         "ingredients": ["4 cups whole milk", "2 tablespoons lemon juice", "4 cups water", "2 cups sugar", "2-3 cardamom pods", "1/4 cup sliced pistachios"],
         "cooking_method": "In a heavy-bottomed pot, heat the whole milk over medium heat. When the milk comes to a boil, add the lemon juice and stir. The milk will curdle and the chhana will separate from the whey. Rinse the chhana under cold running water to remove any lemon flavor. Divide the chhana into small oval or cylindrical shapes and roll them between your palms until they become smooth. In a large pot, combine the sugar, water, and cardamom pods. Bring the mixture to a boil and stir until the sugar dissolves. Add the chhana to the syrup and let it simmer for 10-15 minutes until the chom choms become soft and spongy. Add a few drops of rose water to the syrup. Turn off the heat and let the chom choms cool in the syrup. Garnish the chom choms with sliced pistachios and serve chilled.\r\n"
       },
       {
         "recipe_name": "Shondesh",
+        "recipe_img":"https://www.getbengal.com/uploads/story_image/Porabarir_chomchom_new.jpg",
+        "ratings": 5,
         "ingredients": ["2 cups chhana", "1 cup sugar", "1/4 cup milk", "A few strands of saffron", "1/4 teaspoon cardamom powder", "2 tablespoons of ghee or butter", "Chopped pistachios for garnishing"],
         "cooking_method": "In a heavy-bottomed pan, add the chhana, sugar, and milk. Cook the mixture over low heat, stirring constantly, until the sugar dissolves and the mixture becomes thick. Add the cardamom powder and saffron strands to the mixture and stir well. Add the ghee to the mixture and stir until it becomes thick and starts to leave the sides of the pan. Turn off the heat. Let the mixture cool slightly, and then knead it with your hands until it becomes smooth and lump-free. Divide the mixture into small round or diamond shapes and press each one gently between your palms to give it a smooth finish. Garnish each shondesh with chopped pistachios and refrigerate for at least an hour before serving.\r\n"
       }
@@ -115,16 +139,22 @@
     "chefs_recipes": [
       {
         "recipe_name": "Kachchi Biriyani",
+        "recipe_img":"https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "ratings": 5,
         "ingredients": ["2 lbs. bone-in mutton or beef", "3 cups Basmati rice", "2 cups thinly sliced onions", "1 cup plain yogurt", "1/2 cup clarified butter (ghee)", "1/4 cup milk", "1/4 cup vegetable oil"],
         "cooking_method": "Cut the meat into small pieces and place it in a bowl. Add the yogurt, ginger paste, garlic paste, red chili powder, cumin powder, coriander powder, turmeric powder, garam masala powder, and salt. Mix well and marinate for at least 2 hours, or overnight in the refrigerator. Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown and crisp. Remove the onions from the oil and set them aside on paper towels to drain. In a large pot, layer the rice and meat mixture, starting with a layer of rice at the bottom of the pot, followed by a layer of meat, and then another layer of rice. Repeat the layers until all the rice and meat are used up. Pour the saffron-milk mixture and rose water over the top of the rice. Cover the pot with a tight-fitting lid and place it in the oven. Remove the pot from the oven and let it rest for 10 minutes. Fluff the rice with a fork and top it with the fried onions before serving.\r\n"
       },
       {
         "recipe_name": "Tehari",
+        "recipe_img":"https://cookishcreation.com/wp-content/uploads/2021/05/Beef-Tehari-Cookish-Creation.jpg",
+        "ratings": 5,
         "ingredients": ["3 cups Basmati rice", "1 onion, chopped", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "1/2 cup clarified butter (ghee)", "1 potato, peeled and cubed", "1/4 cup vegetable oil"],
         "cooking_method": "Rinse the rice in several changes of water and soak it in water for 20 minutes. Drain and set aside.Heat the vegetable oil in a large skillet over medium heat. Add the chopped onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Stir well and cook for 3-4 minutes. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Stir well and cook for another 2-3 minutes. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute. Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 2 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Tehari for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Fluff the rice with a fork before serving.\r\n"
       },
       {
         "recipe_name": "Beef Tehari",
+        "recipe_img":"https://www.bengalsaroma.com/wp-content/uploads/2019/02/Beef-Tehari-500x375.png",
+        "ratings": 5,
         "ingredients": ["2 lbs. bone-in mutton or beef", "3 cups Basmati rice","2-3 garlic cloves, minced", "2 cups thinly sliced onions", "1 cup plain yogurt", "1/2 cup clarified butter (ghee)", "1/4 cup milk", "1/4 cup vegetable oil"],
         "cooking_method": "Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the beef to the skillet and stir well. Cook until the beef is browned on all sides. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Stir well and cook for 3-4 minutes. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute.Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 4 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Beef Tehari for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Fluff the rice with a fork before serving.\r\n"
       }
@@ -144,16 +174,22 @@
     "chefs_recipes": [
       {
         "recipe_name": "Ilish Macher Jhol",
+        "recipe_img":"https://www.holidify.com/images/cmsuploads/compressed/Ilish_macher_paturi_20170829115529.jpg",
+        "ratings": 5,
         "ingredients": ["4 pieces of Hilsa fish", "1 onion, sliced", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "2-3 green chilies, slit", "1 teaspoon cumin powder"],
         "cooking_method": "Clean and wash the Hilsa fish pieces and set aside. Heat the mustard oil in a large pan over medium heat. Add the sliced onions and fry until they are translucent.Add the minced garlic and ginger to the pan and fry for another minute. Add the chopped tomato to the pan and cook until it becomes soft and mushy. Add the cumin powder, coriander powder, turmeric powder, red chili powder (if using), and salt to the pan. Stir well and cook for another minute. Add the Hilsa fish pieces to the pan and gently stir to coat them with the spice mixture. Add 2 cups of water to the pan and bring the mixture to a boil. Reduce the heat to low and cover the pan with a lid. Simmer for 10-15 minutes, or until the fish is cooked through and the gravy thickens. Add the slit green chilies to the pan and cook for another minute.Garnish with fresh coriander leaves and serve hot with steamed rice.\r\n"
       },
       {
-        "recipe_name": "Ilish Macher Jhol",
+        "recipe_name": "Sukto",
+        "recipe_img":"https://www.spicypunch.com/wp-content/uploads/2019/06/shukto-recipe-1280x720.jpg",
+        "ratings": 5,
         "ingredients": ["2-3 bitter gourds, sliced", "1 small eggplant, diced", "1 potato, diced", "1 drumstick, cut into 2-inch pieces", "1 raw banana, diced", "1 tablespoon mustard oil", "1 teaspoon nigella seeds"],
         "cooking_method": "Heat the mustard oil in a pan and add the nigella seeds, bay leaf, and green chilies. Sauté for a few seconds. Add the sliced bitter gourd and sauté for a minute or two. Remove the bitter gourd from the pan and keep it aside. In the same pan, add the diced potato, sweet potato, eggplant, drumstick, and raw banana. Sauté for a few minutes. Add the turmeric powder, salt, and grated ginger. Mix well. Add water and bring the mixture to a boil. Reduce the heat and let it simmer for 10-15 minutes until the vegetables are cooked through. Add the sautéed bitter gourd to the pan and mix well. Add milk and sugar to the pan and mix well. Let it simmer for another 2-3 minutes. Turn off the heat and add the ghee. Mix well. Serve hot with steamed rice.\r\n"
       },
       {
         "recipe_name": "Aloo Potol Posto",
+        "recipe_img":"https://img-global.cpcdn.com/recipes/c3f82922244bec31/1200x630cq70/photo.jpg",
+        "ratings": 5,
         "ingredients": ["2-3 medium-sized potatoes, peeled and diced", "4-5 pointed gourds (potol), sliced", "2 tablespoons poppy seeds (posto)", "2-3 green chilies", "1/2 teaspoon turmeric powder", "1 teaspoon cumin powder", "2-3 tablespoons mustard oil"],
         "cooking_method": "Soak the poppy seeds in water for 15-20 minutes. Drain the water and grind the poppy seeds with green chilies to make a smooth paste. Heat mustard oil in a pan and add the diced potatoes. Fry them till they turn golden brown. Remove the potatoes from the pan and keep them aside. In the same pan, add the potol pieces and fry them for 2-3 minutes. Remove them from the pan and keep them aside.Add a little more oil to the pan, if needed. Add the poppy seed paste, turmeric powder, salt, and sugar. Stir the mixture continuously until it starts to thicken.Add the fried potatoes and potol pieces to the pan and mix well. Add a little water to the pan, cover it, and let it cook over low heat for 10-15 minutes or until the vegetables are cooked through. Serve hot with steamed rice.\r\n"
       }
@@ -172,17 +208,23 @@
     "bio": "A famous Bangladeshi cookbook author and television personality\r\n",
     "chefs_recipes": [
       {
-        "recipe_name": "Callahan Bauer",
+        "recipe_name": "Mutton Biryani",
+        "recipe_img":"https://www.holidify.com/images/cmsuploads/compressed/Mutton_Biryani_with_egg_and_salad_20170829120133.JPG",
+        "ratings": 5,
         "ingredients": ["1 lb mutton, cut into small pieces", "2 cups Basmati rice", "1 onion, sliced", "2-3 garlic cloves, minced", "1 small piece of ginger, minced", "1 potato, peeled and cubed"],
         "cooking_method": "Heat the vegetable oil in a large skillet over medium heat. Add the sliced onions and fry until they are golden brown. Add the minced garlic and ginger to the skillet and fry for another minute. Add the mutton to the skillet and stir well. Cook until the mutton is browned on all sides. Add the cubed potatoes and carrots, green peas, and chopped green chilies to the skillet. Add the whole cloves, cardamom pods, cinnamon stick, and bay leaf to the skillet. Stir well and cook for another 2-3 minutes. Add the cumin powder, coriander powder, turmeric powder, and salt to the skillet. Stir well and cook for another minute. Add the drained rice to the skillet and stir well to coat it with the spices and vegetables. Add 4 cups of water to the skillet and stir well. Bring the mixture to a boil. Reduce the heat to low and cover the skillet with a tight-fitting lid. Cook the Mutton Biriyani for 20-25 minutes, or until the rice is tender and all the water has been absorbed. Add the soaked saffron strands to the biriyani and mix well. Garnish with fried onions and fresh coriander leaves before serving.\r\n"
       },
       {
         "recipe_name": "Beef Bhuna",
+        "recipe_img":"https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?w=996&t=st=1683175925~exp=1683176525~hmac=dd389e0fff6f704de8a871c2447172e4266e4c0030d02c31909f22a4ee94ae26",
+        "ratings": 4,
         "ingredients": ["1 pound beef,", "1 onion", "2 green chillies", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 tablespoon cumin powder", "1 tablespoon chilli powder", "oil"],
         "cooking_method": "Heat oil in a large skillet or wok over medium-high heat. Add the onion and sauté until golden brown. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chopped tomatoes and green chilies and cook until the tomatoes are soft and mushy. Add the beef pieces to the skillet and stir well to coat them in the masala. Add salt to taste. The beef should release its own juices, which will help it cook. Once the beef is cooked, remove the lid and let the gravy thicken. Add the ingredients. Mix well. Cook the beef in the masala for a few more minutes until the masala is thick and coats the beef well. Garnish with fresh cilantro leaves and serve hot with rice or naan.\r\n"
       },
       {
         "recipe_name": "Chicken Biriyani",
+        "recipe_img":"https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
+        "ratings": 3,
         "ingredients": ["2 cups basmati rice", "1 pound boneless chicken", "1 large onion", "1 tablespoon ginger paste", "1 tablespoon garlic paste", "1 teaspoon cumin powder", "1 teaspoon garam masala powder", "salt and oil"],
         "cooking_method": "Heat oil in a large pot or Dutch oven over medium-high heat. Add the biryani masala ingredients and sauté for a minute or two until fragrant. Add the ginger and garlic paste and sauté for 1-2 minutes until the raw smell disappears. Add the chicken pieces to the pot and stir well to coat them in the masala. Add salt to taste. Add the yogurt to the pot and mix well. Cover the pot with a lid and let the chicken cook. In a separate pot, boil 4 cups of water. Drain the soaked rice and add it to the boiling water along with salt to taste. Cook the rice until it is about 80% done. Drain the rice and keep it aside. Once the chicken is cooked, layer the rice on top of the chicken in the pot. Cover the pot with a tight-fitting lid and let the biryani cook on low heat for 10-15 minutes. Turn off the heat and let the biryani rest for 5-10 minutes. Garnish with fresh cilantro leaves and serve hot with raita.\r\n"
       }
